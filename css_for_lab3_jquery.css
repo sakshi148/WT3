@@ -1,0 +1,50 @@
+.wcmsg{
+	font-family:Times New Roman;
+	font-size:50px;
+	color:white;
+	width:700px00px;
+	text-align:center;
+	background-color:black;
+	margin-top: 10px;
+}
+
+.ddl{
+	font-family:Times New Roman;
+	font-size:50px;
+	color:red;
+	width:700px;
+	text-align:center;
+	background-color:black;
+	
+	
+	
+}
+
+body{
+	background-image:url("bg.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:100% 100%;
+}
+
+label{
+	text-align: left;
+	width:200px;
+	padding-left: 20px;
+	
+}
+
+input{
+	size:270px;
+	width:270px;
+	height:30px;
+}
+
+
+
+
+
+
+
+
+
